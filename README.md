@@ -6,12 +6,15 @@ Using multiple threads allows you to parallelize the processing of multiple func
 
 This willteach you how to:
 
-• use a collection view
-• do a multithread on iOS
-• create alerts
-• use a scroll view
+1) use a collection view
+2) do a multithread on iOS
+3) create alerts
+4) use a scroll view
 
 # Screanshots
 
- ![alt text](Screenshots/CollectionView.png "grid view")
- ![alt text](Screenshots/ScrollView.png "Zooom image")
+![alt text](Screenshots/loading.png "loading an image")
+![alt text](Screenshots/Downloading.png "downloading an image")
+![alt text](Screenshots/alert.png "show alert")
+![alt text](Screenshots/CollectionView.png "grid view")
+![alt text](Screenshots/ScrollView.png "Zooom image")
